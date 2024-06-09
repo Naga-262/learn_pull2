@@ -1,5 +1,7 @@
 print("hello world")
 a = 10
 b = 20
-c = 30
-print(a+b+c)
+d = 40
+e = 50
+print(a+b)
+print(b+d+e)
