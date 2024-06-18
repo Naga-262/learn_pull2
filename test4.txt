@@ -3,3 +3,7 @@ Hello, this is test4 file.
 Now making new changes.
 
 Hii, today is tuesday.
+
+Many people are wearing white clothes today.
+
+One guy is wearing yellow t-shirt today.
