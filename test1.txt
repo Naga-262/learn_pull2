@@ -2,7 +2,8 @@ Hello this is test 1 file.
 
 added example file.
 
-I am updating test1 file in test folder.
+removed text3 file.
 
-I came to office at 9:30 AM today.
+remote is updated by others.
+I am trying to pull with local changes.
 
